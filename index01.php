@@ -1,6 +1,8 @@
 <?php
 require_once('functions.php'); // garante que o arquivo foi incluido uma vez so
 include_once('header.php'); //  inclue header na pagina
+// require_once('cadastro01.php');
+// include_once('cadastro01.php');
 ?>
 
 

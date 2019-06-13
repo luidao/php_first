@@ -31,6 +31,7 @@
                         <li class="active"><a href="#">controle de estoque</a></li>
                         <li><a href="#">vendas</a></li>
                         <li><a href="#">contato</a></li>
+                        <li><a href="cadastro01.php">Cadastro</a></li>
                     </ul>
                 </div>
             </div>
